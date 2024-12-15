@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Fuck iCode 禁赛版
-// @version      2024-01-12
-// @description  iCode，金凡！
-// @author       iCode的爸爸
+// @name         FuckCoco2D
+// @version      1.0.1-20241215
+// @description  让题目逆转吧！iCode
+// @author       guoyujie666
 // @match        https://ide.icode.org.cn/*
 // @icon         https://static.icode.org.cn/assets/zone/static/favicon.ico
 // @grant        none
