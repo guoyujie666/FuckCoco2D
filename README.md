@@ -12,6 +12,7 @@
 - [X] 破解代码限制
 - [ ] 地图ID显示
 ### 使用方法
+0.从 [Release](https://github.com/guoyujie666/FuckCoco2D/releases) 下载最新版本文件\
 1.油猴安装FuckCoco2D
   - FuckCoco2D-X.X.X-20XXXXXX.user.js
 
@@ -19,7 +20,7 @@
   - 关卡序号、最大步数、最大行数
 
 3.网页出现转圈加载\
-4.加载完后直接点击运行代码\
+4.加载完后点击运行代码\
 5.出现未通过时点击左边按钮跳关即可三星满分
 >[!TIP]
 > 可以不写代码，但容易被封
