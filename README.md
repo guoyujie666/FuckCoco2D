@@ -10,4 +10,4 @@
 使用Chrome或Edge浏览器，安装Reres插件，把ReResSetting.json导入，解压build.XXXXXXXXXXXXXXXX.zip，得到第二个js文件，修改一下两个破解js文件的位置（可以把解压后的js拖到浏览器，然后在地址框复制地址，即可得到完整文件地址），即可破解
 # Bugs 和 待实现功能
 按任意键都会打开跳关界面（在油猴内关闭FuckCoco2D后刷新页面即可编辑代码）
-正在开发地图ID的显示功能
+以及正在开发的地图ID显示功能
