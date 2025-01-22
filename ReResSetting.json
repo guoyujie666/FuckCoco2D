@@ -1,0 +1,12 @@
+[
+	{
+		"req": "https://static.icode.org.cn/assets/game/build.217cddb896b40f16.js",
+		"res": "file:///D:/Desktop/work/build.217cddb896b40f16.js",
+		"checked": true
+	},
+	{
+		"req": "https://static.icode.org.cn/assets/game/static/game/disable-devtool.js",
+		"res": "file:///D:/Desktop/work/disable-devtool.js",
+		"checked": true
+	}
+]
