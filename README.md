@@ -13,7 +13,7 @@
 - [ ] 地图ID显示
 ### 使用方法
 1.油猴安装FuckCoco2D
-  - FuckCoco2D-X.X.X-20XXXXXX.user.js\
+  - FuckCoco2D-X.X.X-20XXXXXX.user.js
 
 2.在编辑器界面按F8打开跳关界面，按要求输入三个数值
   - 关卡序号、最大步数、最大行数
@@ -27,8 +27,11 @@
 1.使用Chrome或Edge浏览器，安装Reres插件\
 2.把ReResSetting.json导入\
 3.解压build.XXXXXXXXXXXXXXXX.zip，得到第二个js文件\
-4.修改两个破解js的本地文件位置链接，即可破解
+4.修改两个破解js的本地文件位置（files:///开头）链接，即可破解
 >[!TIP]
 > 可以把解压后的js拖到浏览器，然后在地址框复制地址，即可得到完整文件地址
+
+>[!WARNING]
+>不要修改左边的原始js地址！否则不生效！
 ### Bugs
 - 待发现
