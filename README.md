@@ -9,7 +9,7 @@
 ### 功能
 - [X] 一键满星过关
 - [X] 破解开发者工具（F12）限制
-- [X] 破解代码限制
+- [X] 破解代码限制（例如4括号、一行for、一行if、逗号等）
 - [ ] 地图ID显示
 ### 使用方法
 0.从 [Release](https://github.com/guoyujie666/FuckCoco2D/releases) 下载最新版本文件\
