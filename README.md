@@ -13,7 +13,7 @@
 - [ ] 地图ID显示
 ### 使用方法
 1.油猴安装FuckCoco2D
-  - FuckCoco2D-X.X.X-20XXXXXX.js\
+  - FuckCoco2D-X.X.X-20XXXXXX.user.js\
 
 2.在编辑器界面按F8打开跳关界面，按要求输入三个数值
   - 关卡序号、最大步数、最大行数
